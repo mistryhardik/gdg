@@ -1,4 +1,4 @@
 # gdg
 GDG community resources
 
-1. Mail merge with attachment: https://workspace.google.com/marketplace/app/mail_merge/218858140171
+1. Mail merge with attachment: https://github.com/mistryhardik/gdg/blob/main/src/mail-merge/mail-merge.md
